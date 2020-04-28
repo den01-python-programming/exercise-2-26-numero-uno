@@ -1,9 +1,5 @@
 def main():
-  #write your code below this line
-  print()
-
-def numeroUno():
-    return 1
+    #write your code below this line
 
 if __name__ == '__main__':
     main()
