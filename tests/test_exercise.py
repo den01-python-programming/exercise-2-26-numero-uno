@@ -1,5 +1,5 @@
 import pytest
-from src.exercise import numeroUno
+from src.exercise import numero_uno
 
 def test_exercise():
-    assert numeroUno() == 1
+    assert numero_uno() == 1
